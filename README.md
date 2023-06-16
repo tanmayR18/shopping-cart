@@ -1,15 +1,15 @@
 
 # Shopping Cart
-A Shopping Website which can add and remove the items to the cart with the help of Redux tolkit for state management.
+A Shopping Website which can add and remove items to the cart with the help of Redux toolkit for state management.
 
-Note - When viewed in small device(smartphone) there is a UI problem that some of the items when added to cart gets overflow from items div. This will be fixed in future.
+Note - When viewed in the small device(smartphone) there is a UI problem in that some of the items when added to the cart gets overflowed from items div. This will be fixed in the future.
 Also if you are interested and want to fix it:
 - Clone the repository
 - Make a side branch and fix it 
 - Send a push request from your side branch.
 
 Happy coding :)
-## Feathers
+## Features 
 
 - You can add and remove the items on the to/from the cart
 - The total items and there prices is shown in the cart
